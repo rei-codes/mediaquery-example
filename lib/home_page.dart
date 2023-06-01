@@ -9,17 +9,15 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    log('a${MediaQuery.of(context).viewInsets}');
+    log('HomePage');
     return Scaffold(
       appBar: AppBar(),
       body: Center(
-        child: Container(
-          color: Colors.red,
-          height: 200,
+        child: Text(
           // OLD (BAD) WAY
-          width: MediaQuery.of(context).size.width / 2,
+          MediaQuery.of(context).platformBrightness.name,
           // NEW (GREAT) WAY
-          // width: MediaQuery.sizeOf(context).width / 2,
+          // MediaQuery.platformBrightnessOf(context).name,
         ),
       ),
       floatingActionButton: FloatingActionButton(
