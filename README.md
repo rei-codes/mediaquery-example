@@ -1,16 +1,6 @@
-# media_please
+# The most important Flutter 3.10 feature that nobody talks about
+## You can increase your app's performance drastically with just a couple of tweaks!
 
-A new Flutter project.
+![cover image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mEqKL-KDVavfVEpIgQZrPQ.jpeg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+More information about the project: [Medium](https://itnext.io/the-most-important-flutter-3-10-feature-that-nobody-talks-about-1cc575a6063f)
